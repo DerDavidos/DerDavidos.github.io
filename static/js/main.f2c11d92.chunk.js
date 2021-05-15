@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(1),o=c.n(n),r=c(3),i=c.n(r),s=(c(8),c(9),c(0));var a=function(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsxs)("header",{className:"App-header",children:[Object(s.jsx)("h3",{children:"Portfolio"}),"David Lewakis"]})})};i.a.render(Object(s.jsx)(o.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.f2c11d92.chunk.js.map
